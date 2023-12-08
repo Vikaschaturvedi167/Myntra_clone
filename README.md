@@ -2,7 +2,7 @@
 # Myntra Clone Construct week project
 
 ## Description 
-As a 5-member team, we collaborated on the "Myntra-Clone" front-end project, focusing on developing a user-friendly e-commerce website using web technologies. Our main objectives were responsive design, filtering, sorting, and personalized recommendations. Additionally, we successfully implemented a shopping cart, payment integration, wishlist functionality, and user detail management. This experience allowed us to grow as front-end developers, create engaging user interfaces, and work effectively as a team.
+ I worked on "Myntra-Clone" front-end project, focusing on developing a user-friendly e-commerce website using web technologies. My main objectives were responsive design, filtering, sorting, and personalized recommendations. Additionally, we successfully implemented a shopping cart, payment integration, wishlist functionality, and user detail management. This experience allowed us to grow as front-end developers, create engaging user interfaces, and work effectively as a team.
 
 ## Preview-
 
@@ -14,12 +14,7 @@ CSS
 Javascript
 Local Storage
 
-### Team Member
-- Arjun Dangi
-- Mo Faisal
-- Moin Mulani
-- Surendra singh
-- Abhishek
+
 
 # Work Description
 
